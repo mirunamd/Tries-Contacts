@@ -26,14 +26,19 @@ Given n sequential add and find operations, perform each operation in order.
 **Sample Input**
 
 > 4
+
 > add hack
+
 > add hackerrank
+
 > find hac
+
 > find hak
 
 **Sample Output**
 
 > 2
+
 > 0
 
 
